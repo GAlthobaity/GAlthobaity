@@ -24,6 +24,8 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
   
 #### Github Stats
 
-![UnknownBonita's github stats](https://github-readme-stats.vercel.app/api?username=UnknownBonita&count_private=true&theme=tokyonight&hide=contribs,prs)
+![UnknownBonita's github stats](https://github-readme-stats.vercel.app/api?username=UnknownBonita&count_private=true&theme=nightowl&hide=contribs&show_icons=true,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBonita&langs_count=8&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
