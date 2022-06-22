@@ -15,7 +15,6 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
 
 - 📫 How to reach me: **[Email](mailto:gealthobaity@gmail.com)**
 
-
 <details>
 <summary>
   More stuff about me
