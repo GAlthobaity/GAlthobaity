@@ -7,7 +7,7 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
 
 **:mailbox: Reach me out!**
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/ghaidesbonita?logo=twitter&style=for-the-badgehttps://twitter.com/ghaidesbonita)](https://twitter.com/ghaidesbonita) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaid-althobaity/)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gealthobaity@gmail.com)
+[![Twitter Badge](https://img.shields.io/twitter/follow/ghaidesbonita?logo=twitter&style=for-the-badge&https://twitter.com/ghaidesbonita)](https://twitter.com/ghaidesbonita) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaid-althobaity/)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gealthobaity@gmail.com)
 
 
 - 🔭 I’m currently studying at **@University of Jeddah**
