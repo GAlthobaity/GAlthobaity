@@ -22,7 +22,6 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
 </summary>
 
 <br >
-
 #### Github Stats
 
 ![UnknownBonita's github stats](https://github-readme-stats.vercel.app/api?username=UnknownBonita&count_private=true&theme=tokyonight&hide=contribs,prs)
