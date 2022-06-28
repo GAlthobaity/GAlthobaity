@@ -15,16 +15,9 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
 
 - 📫 How to reach me: **[Email](mailto:gealthobaity@gmail.com)**
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
   
 #### Github Stats
 
-![UnknownBonita's github stats](https://github-readme-stats.vercel.app/api?username=UnknownBonita&count_private=true&theme=nightowl&hide=contribs&show_icons=true,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBonita&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBonita&langs_count=6&theme=nightowl)]()
 
 </details>
