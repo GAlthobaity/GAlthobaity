@@ -3,7 +3,7 @@
 A senior student majoring in Data science and Analysis 👩🏻‍💻 Intrested in Data Engineering, Programming, ML/DL, Data Management and Data in general 🤖.
 
 #### Profile Visits 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=UnknownBonita.UnknownBonita)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=GAlthobaity.GAlthobaity)
 
 **:mailbox: Reach me out!**
 
