@@ -1,6 +1,6 @@
 ## Hi I'm Ghaid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" height ="32px" alt="hi">
 
-A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Data Engineering and Programming.
+A senior student majoring in Data science and Analysis 👩🏻‍💻 Intrested in Data Engineering, Programming, ML/DL, Data Management and Data in general 🤖.
 
 #### Profile Visits 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=UnknownBonita.UnknownBonita)
@@ -18,6 +18,6 @@ A student majoring in Data Sceince and Analysis 👩🏻‍💻 Intrested in Dat
   
 #### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBonita&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAlthobaity&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
