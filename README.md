@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghaid</h1>
-<h3 align="center">A passionate data science and analysis student from 🇸🇦</h3>
+<h3 align="center">A passionate data science and analysis Fresh Gradute 🎓 from 🇸🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galthobaity&label=Profile%20views&color=0e75b6&style=flat" alt="galthobaity" /> </p>
 
